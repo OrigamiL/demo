@@ -49,6 +49,8 @@ public class Main {
         System.out.println("++++++++++++++++++++++"+result);
 
         //return Either;
-        when()
+        when() {
+
+        }
     }
 }
