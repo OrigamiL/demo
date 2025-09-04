@@ -51,6 +51,9 @@ public class Main {
         //return Either;
         when() {
             if ()
+            for (
+
+            )
         }
     }
 }
